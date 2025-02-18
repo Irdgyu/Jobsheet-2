@@ -12,7 +12,7 @@ public class Mahasiswa06 {
         this.ipk = ipk;
         kelas = kls;
     }
-    
+
     void tampilkanInformasi() {
         System.out.println("Nama: " + nama);
         System.out.println("NIM: " + nim);
